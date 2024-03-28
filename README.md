@@ -25,4 +25,4 @@ To use this project:
 5. Explore the dashboard to gain insights into product sales trends and performance metrics.
 
 ## Contact
-**linkedin:**www.linkedin.com/in/amr-zidan-7871831a4
+**linkedi**:www.linkedin.com/in/amr-zidan-7871831a4
